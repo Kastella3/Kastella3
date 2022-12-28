@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kastella3
 - 👀 I’m interested in me tornar analista de desenvolvimento.
-- 🌱 I’m currently learning a esse mundo incrível dedados
+- 🌱 I’m currently learning  esse mundo incrível de dados
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me kammyllastella3@gmail.com
 
 <!---
 Kastella3/Kastella3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
