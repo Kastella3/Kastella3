@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kastella3
 - 👀 I’m interested in me tornar analista de desenvolvimento.
 - 🌱 I’m currently learning  esse mundo incrível de dados
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on meu aprendizado ate começar as aulas na faculdade
 - 📫 How to reach me kammyllastella3@gmail.com
 
 <!---
